@@ -336,6 +336,7 @@ end
 function execute_words_file(file_name)
   --local file_name=words[arguments[1]]
   local file=io.open(file_name,"r")
+  if not file then print("file not opened", file_name) end
   
   local program=""
   while true do
