@@ -1,3 +1,5 @@
+#!/usr/bin/env rlwrap-luajit
+
 -- pang: polish notation language
 -- pang: linguaggio a notazione polacca
 
