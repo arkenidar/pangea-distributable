@@ -1,0 +1,2 @@
+luajit pangea.lua %*
+pause

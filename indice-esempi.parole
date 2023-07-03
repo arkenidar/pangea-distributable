@@ -1,0 +1,8 @@
+#!/usr/bin/env pangea-italian
+
+stampa : " Fizz-Buzz (gioco matematico) "
+! : fizzbuzz.parole
+
+! : fattoriale.parole
+stampa : " fattoriale di 4 (4!) (gioco matematico) "
+stampa fattoriale 4

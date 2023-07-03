@@ -1,0 +1,3 @@
+print if greater 1 0 : greater! : " not greater! "
+
+print if greater 0 1 : greater! : " not greater! "
